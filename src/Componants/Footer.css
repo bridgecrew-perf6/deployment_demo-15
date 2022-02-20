@@ -1,0 +1,89 @@
+/*------------------------ Contact info--------------- */
+.socialicon:hover{
+    color: tomato;
+}
+
+.contactinfoicon{
+    padding-right: 20px;
+    font-size: 20px;
+    color:#333333;
+    
+}
+
+.contactinfo{
+    text-decoration: none;
+    color: #333333;
+    font-size: 18px;
+    
+}
+
+.contactinfo:hover{
+    color: tomato;
+    
+}
+
+.contactin{
+    background-color:#eeecec;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    color: #333333;
+}
+
+/**---------------------------------- Social Icon -----------------------------*/
+
+.socialicon{
+
+    color: #ffffff;
+   padding: 00px 6px 04px 6px;
+    border-radius:75px 75px 75px 75px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.companyover{
+
+    color: #000000;
+   padding: 00px 6px 04px 6px;
+    border-radius:75px 75px 75px 75px;
+    text-align: center;
+    font-size: 23px;
+    margin-left: 10px;
+}
+
+.socialiconsrow{
+background-color: #000000;
+padding-right: 10px;
+padding-left: 10px;
+padding-top: 15px;
+padding-bottom: 20px;
+
+}
+.headerworapper{ 
+    background-color:#ffffffd4;   
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    position:absolute;
+    
+    }
+
+.links{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.links:hover{
+
+    color: tomato;
+}
+
+.credit{
+    padding-bottom:0px;
+    border-top: 1px solid #333333;
+    padding-top:5px;
+    background-color: black;
+}
