@@ -25,7 +25,7 @@ const Footer =()=>{
               
                 </div>
 
-                <div className="col-lg-1 col-md-6 mb-4 mb-md-0 text-center">
+                <div className="col-lg-1 col-md-6 mb-4 mb-md-0 text-center imgw1f">
                 <img src={Banner1} width={100 + '%'}></img>
                 </div>
 
@@ -42,7 +42,7 @@ const Footer =()=>{
               </section>
                 </div>
 
-                <div className="col-lg-1 col-md-6 mb-4 mb-md-0 text-center">
+                <div className="col-lg-1 col-md-6 mb-4 mb-md-0 text-center imgw2f">
                 <img src={Banner2} width={100 + '%'}></img>
                 </div>
                 <div className="col-lg-2 col-md-6 mb-4 mb-md-0 text-center">

@@ -12,7 +12,7 @@ const Nav =()=>{
         <header> 
             <div className="row headerworapper">
               
-            <div className="col-lg-2 col-md-6 mb-4 mb-md-0 text-center">
+            <div className="col-lg-2 col-md-6 mb-4 mb-md-0 text-center imglogo">
                 <img src={Banner1} width={100 + '%'}></img>
                 </div>
 
@@ -37,11 +37,11 @@ const Nav =()=>{
                 <div className="col-lg-2 col-md-6 mb-4 mb-md-0 text-center">
                 <h5>Our Services</h5>
                 </div>
-                <div className="col-lg-1 col-md-6 mb-4 mb-md-0 text-center">
-                <img src={Banner3} width={50 + '%'}></img>
+                <div className="col-lg-1 col-md-6 mb-4 mb-md-0 text-center imgw">
+                <img src={Banner3} width={40 + '%'}></img>
                 </div>
-                <div className="col-lg-1 col-md-6 mb-4 mb-md-0 text-center">
-                <img src={Banner2} width={70 + '%'}></img>
+                <div className="col-lg-1 col-md-6 mb-4 mb-md-0 text-center imgw1">
+                <img src={Banner2} width={60 + '%'}></img>
                 </div>
                 
               </div>

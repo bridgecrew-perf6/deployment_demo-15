@@ -87,3 +87,50 @@ padding-bottom: 20px;
     padding-top:5px;
     background-color: black;
 }
+
+
+@media only screen and (max-width: 480px) {
+    .headerworapper {
+        background-color: #ffffffd4;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-top: 15px;
+        padding-bottom: 20px;
+        position: relative;
+    }
+
+    .imglogo
+    {
+        width:200px !important;
+        margin-left: 150px;
+    }   
+    .imgw
+{
+    width:150px !important;
+    margin-left: 80px;
+}   
+
+.imgw1
+{
+    width:140px !important;
+  
+}
+
+.imgw1f
+{
+    width:180px !important;
+    margin-left: 150px;
+}
+.imgw2f
+{
+    width:180px !important;
+    margin-left: 150px;
+}   
+h3
+{
+    padding-bottom:0px;
+}
+.mb-4 {
+    margin-bottom: 1rem!important;
+}
+  }
