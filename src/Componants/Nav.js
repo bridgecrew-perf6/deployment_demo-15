@@ -12,7 +12,7 @@ const Nav =()=>{
   <nav className="navbar navbar-expand-lg navbar-light ">
     <div className="container">
   <div className="first">
-  <img src={Banner1} width={80 + '%'}></img>
+  <img src={Banner1} width={50 + '%'}></img>
   </div>
   <div className="col-md-7">
   
