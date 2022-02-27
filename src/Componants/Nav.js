@@ -11,8 +11,8 @@ const Nav =()=>{
 
   <nav className="navbar navbar-expand-lg navbar-light ">
     <div className="container">
-  <div className="col-md-2">
-  <img src={Banner1} width={50 + '%'}></img>
+  <div className="first">
+  <img src={Banner1} width={80 + '%'}></img>
   </div>
   <div className="col-md-7">
   
